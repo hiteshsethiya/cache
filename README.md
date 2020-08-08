@@ -16,5 +16,8 @@ For lombok to work on your IDE,
 2. com.cache.app.RCacheApplication - Main Application class to run the cache. 
 
 ###Commands
- 
+READ - Get the value for a key else log "Not Found"
+PUT - Inserts a key into the cache
+REMOVE - Removes a key from the cache
+FULL - Whether the cache is full or not. 
 
